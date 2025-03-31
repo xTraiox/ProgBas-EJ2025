@@ -51,7 +51,7 @@ def menu():
                 print(f"El valor {valor} no fue encontrado en la lista.")
         
         elif opcion == "4":
-            print("Saliendo....")
+            print("Saliendo....") 
             break
         
         else:
